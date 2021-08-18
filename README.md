@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://devdeepsinh0591.github.io/Portfolio-Devdeepsinh-Jadeja/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
@@ -13,9 +13,9 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 #### Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720]((https://user-images.githubusercontent.com/81241950/129947535-7374b75e-c2f3-4017-9ce0-0f7b04bcee22.PNG)
+![mockup720]((https://github.com/Devdeepsinh0591/Portfolio-Devdeepsinh-Jadeja/blob/main/assests/images/portfolio3.PNG)
 )
-![skillsmockup](https://user-images.githubusercontent.com/81241950/129947825-9c20c0ba-4755-4d97-9b51-3cc7ec408908.PNG)
+![skillsmockup](https://github.com/Devdeepsinh0591/Portfolio-Devdeepsinh-Jadeja/blob/main/assests/images/portfolio2.PNG)
 
 
 <h2>📬 Contact</h2>
