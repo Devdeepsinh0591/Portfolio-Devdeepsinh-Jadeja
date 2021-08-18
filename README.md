@@ -13,8 +13,8 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 #### Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720]((https://github.com/Devdeepsinh0591/Portfolio-Devdeepsinh-Jadeja/blob/main/assests/images/portfolio3.PNG)
-)
+![mockup720](https://github.com/Devdeepsinh0591/Portfolio-Devdeepsinh-Jadeja/blob/main/assests/images/portfolio3.PNG)
+
 ![skillsmockup](https://github.com/Devdeepsinh0591/Portfolio-Devdeepsinh-Jadeja/blob/main/assests/images/portfolio2.PNG)
 
 
@@ -24,7 +24,7 @@ If you want to contact me, you can reach me through below handles.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/devdeepsinh-jadeja-0591/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-© 2021 Saurav Mukherjee
+© 2021 Devdeepsinh Jadeja
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
