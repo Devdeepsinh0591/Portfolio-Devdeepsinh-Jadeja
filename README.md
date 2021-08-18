@@ -13,15 +13,16 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 #### Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee/blob/94498338de779cd693065dfb01b8ca1daab1eeef/assests/images/Screenshot%20(214).png)
-![skillsmockup](https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee/blob/577c41033c42fcd3568e2ca266dc4511d87f630b/assests/images/Screenshot%20(215).png)
+![mockup720]((https://user-images.githubusercontent.com/81241950/129947535-7374b75e-c2f3-4017-9ce0-0f7b04bcee22.PNG)
+)
+![skillsmockup](https://user-images.githubusercontent.com/81241950/129947825-9c20c0ba-4755-4d97-9b51-3cc7ec408908.PNG)
 
 
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through below handles.
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sauravmukherjee44/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/devdeepsinh-jadeja-0591/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
 © 2021 Saurav Mukherjee
 
